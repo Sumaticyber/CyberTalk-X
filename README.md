@@ -61,6 +61,15 @@ The main purpose of CyberTalk X is to understand how Python can be used to build
 * Improve the user interface.
 * Add stronger deployment and database protection
 
+  ## Screensshots
+
+  ![Login Screen] (1.jpeg)
+  ![Dashboard](2.jpeg)
+  ![Discussion Board](3.jpeg)
+  ![Security Alerts](4.jpeg)
+  ![Execution](5.jpeg)
+
 ## License
 
-This project is intended for educational and learning purposes.
+This project is intended for educational and learning purposes.        
+
